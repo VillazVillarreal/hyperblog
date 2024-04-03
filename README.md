@@ -1,4 +1,4 @@
-#Hiperblog:fa-heart:
+#Hiperblog :blue_heart:
 
 Un blog increíble para el curso de Git y Github de Platzi
 
