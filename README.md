@@ -20,6 +20,5 @@ Creado por el increible mundo de Platzi Team
 
 Incluye ejemplos en windows, Mac , Linux
 
-Y como un amable recordatorio: Este readme.md es un chiste . Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso .
 
 Y como un amable recordatorio: Este readme.md es un chiste . Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso .
